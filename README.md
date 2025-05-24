@@ -1,6 +1,7 @@
 # 🎯 Color Tap Game (Flutter APP)
 
-A simple yet addictive Flutter game where users tap the correct colored box as fast as possible before time runs out. Built to help beginner developers learn Flutter's core concepts like state management, animation, navigation, and UI design — all while having fun.
+A simple yet addictive Flutter game where users tap the correct colored box as fast as possible before time runs out. 
+Built to help beginner developers learn Flutter's core concepts like state management, animation, navigation, and UI design — all while having fun.
 
 ---
 
@@ -55,12 +56,6 @@ lib/
 * 💾 Save high score with shared\_preferences
 * 🌈 Add more levels & color sets
 * 🎉 Confetti animation on high score
-
----
-
-## 📸 Screenshots
-
-*Add your app screenshots here*
 
 ---
 
