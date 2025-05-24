@@ -18,17 +18,31 @@ Built to help beginner developers learn Flutter's core concepts like state manag
 
 ## 🚀 Getting Started
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/bektas-sari/color_tap_game.git
+cd color_tap_game
+```
+
+### Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the App
+
+```bash
+flutter run
+```
+
+---
+
 ### Prerequisites
 
 * Flutter SDK installed
 * Android Studio or VS Code
-
-### Installation
-
-```bash
-flutter pub get
-flutter run
-```
 
 ---
 
@@ -67,7 +81,18 @@ Made for fun and learning. Inspired by simple cognitive games that boost focus a
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License 
+
+---
+
+## 👤 Developer
+
+**Bektas Sari**  
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
 
 ---
 
